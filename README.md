@@ -17,5 +17,5 @@ Join this challenge if you have one or more skills listed below:
 
 ## Access to the datasets
 
-The description of the datasets can be found [in the Wiki](https://github.com/opentargets/BioDataHack_2018/wiki/datasets) with a link to each file.
+The description of the datasets can be found [in the Wiki](https://github.com/opentargets/BioDataHack_2018/wiki/Datasets-Index) with a link to each file.
 

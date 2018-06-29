@@ -15,7 +15,7 @@ Join this challenge if you have one or more skills listed below:
 * Experience creating data visualisations.
 * A patient or clinical perspective in a disease area where there is an unmet treatment need
 
-## Access to the datasets
+## Description of the project and access to the datasets
 
-The description of the datasets can be found [in the Wiki](https://github.com/opentargets/BioDataHack_2018/wiki/Datasets-Index) with a link to each file.
+The description of the project and links to the datasets for the challenge can be found [in the Wiki](https://github.com/opentargets/BioDataHack_2018/wiki).
 
